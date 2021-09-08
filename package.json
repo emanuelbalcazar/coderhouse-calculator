@@ -1,6 +1,6 @@
 {
   "name": "coderhouse-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ejemplo de libreria en NPM",
   "main": "index.js",
   "scripts": {
