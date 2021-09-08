@@ -1,0 +1,23 @@
+{
+  "name": "coderhouse-calculator",
+  "version": "1.0.0",
+  "description": "Ejemplo de libreria en NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelbalcazar/coderhouse-calculator.git"
+  },
+  "keywords": [],
+  "author": "Carlos Emanuel Balcazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelbalcazar/coderhouse-calculator/issues"
+  },
+  "homepage": "https://github.com/emanuelbalcazar/coderhouse-calculator#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
